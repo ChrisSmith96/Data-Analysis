@@ -1,5 +1,5 @@
-# ARM-Data-Analysis
-ARM Technical Test
+# Data-Analysis
+Technical Test
 
 All findings and visualisations of the performance data can been found in the Data_Analysis.ipynb file developed in Jupyter Notebook. 
 The suggested actions the development team should take are presented at the bottom of the document in the conclusion.
